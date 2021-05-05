@@ -1,5 +1,10 @@
 # adventure-game
+----
 Simple browser based adventure game written in JavaScipt that interacts with the user and allows the user to choose how the game will end.
+
+-----------------
+# Screenshots
+#### Progress images
 
 <img width="527" alt="adventure-game" src="https://user-images.githubusercontent.com/69225402/117089526-a1c12500-ad0a-11eb-8fd9-6b5bd4275654.png">
 
@@ -18,7 +23,7 @@ Simple browser based adventure game written in JavaScipt that interacts with the
 
 # Contributors
 
-[![](https://contrib.rocks/image?repo=cmaldon/ai-spy)](https://github.com/cmaldon/ai-spy/graphs/contributors)
+[![](https://contrib.rocks/image?repo=cmaldon/adventure-game)](https://github.com/cmaldon/adventure-game/graphs/contributors)
 
 ##### Made with [contributors-img](https://contrib.rocks).
 
