@@ -47,7 +47,8 @@ Simple browser based adventure game written in JavaScipt that interacts with the
 
 
 # Contributors
-<h4>Thank you</h4>
+
+<h3>Thank you</h3>
 
 ----
 
